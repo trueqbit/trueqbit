@@ -4,7 +4,7 @@
 + [![I contribute to SQLite ORM](https://img.shields.io/badge/SQLite_ORM-I_contribute_to-blue?style=social)](https://github.com/fnc12/sqlite_orm)
 + [![I hunt down Bugs](https://img.shields.io/badge/Bugs-I_hunt_down-blue?style=social)](#)
 + [![I breathe C++](https://img.shields.io/badge/C%2B%2B-I_breathe-blue?style=social)](#)
-+ [![I code since 24yrs](https://img.shields.io/badge/23_yrs-I_code_since-blue?style=social)](#)
++ [![I code since 24yrs](https://img.shields.io/badge/24_yrs-I_code_since-blue?style=social)](#)
 
 <div id="badges">
   <a href="https://stackoverflow.com/users/279251/klaus-triendl">
