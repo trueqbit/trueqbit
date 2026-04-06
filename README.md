@@ -1,6 +1,6 @@
 ## Software Engineering Director 👋
 
-+ [![I am trusted by FireDaemon Technologies Limited](https://img.shields.io/badge/FireDaemon_Technologies_Limited-I_am_trusted_by_over_10_years-blue?style=social)](https://www.firedaemon.com)
++ [![I am trusted by FireDaemon Technologies Limited](https://img.shields.io/badge/FireDaemon_Technologies_Limited-I_am_trusted_by_over_11_years-blue?style=social)](https://www.firedaemon.com)
 + [![I contribute to SQLite ORM](https://img.shields.io/badge/SQLite_ORM-I_contribute_to-blue?style=social)](https://github.com/fnc12/sqlite_orm)
 + [![I hunt down Bugs](https://img.shields.io/badge/Bugs-I_hunt_down-blue?style=social)](#)
 + [![I breathe C++](https://img.shields.io/badge/C%2B%2B-I_breathe-blue?style=social)](#)
@@ -33,7 +33,8 @@
  <a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-plain-wordmark.svg" title="pytest" alt="pytest" width="36" height="36"/></a>&nbsp;
  <a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-plain.svg" title="Postman" alt="Postman" width="36" height="36"/></a>&nbsp;
  <a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain-wordmark.svg" title="Visual Studio" alt="Visual Studio" width="36" height="36"/></a>&nbsp;
- <a href="#"><img src="https://www.advancedinstaller.com/favicon.ico" title="Advanced Installer" alt="Advanced Installer" width="36" height="36"/>
+ <a href="#"><img src="https://www.advancedinstaller.com/favicon.ico" title="Advanced Installer" alt="Advanced Installer" width="36" height="36"/>&nbsp;
+ <a href="#"><img src="https://www.cppdepend.com/images/cppdependlogo.png" title="CppDepend" alt="CppDepend" height="36"/></a>
 </div>
 
 ### Some Stats ###
